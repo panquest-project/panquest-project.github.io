@@ -2,6 +2,27 @@
    Project site custom styles
    =============================== */
 
+/* Center header, main content, and page */
+.container {
+  max-width: 960px;     /* sets a fixed max width */
+  margin: 0 auto;       /* horizontal centering */
+  padding: 0 20px;      /* optional side padding */
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;  /* centers logo + title horizontally */
+  gap: 10px;                /* space between logo and title */
+}
+
+.project-logo img {
+  height: 40px;   /* smaller, proportional logo */
+  width: auto;
+  vertical-align: middle;
+}
+
+
 /* Header adjustments */
 .site-header {
   background: white;       /* clean white header */
@@ -26,6 +47,7 @@
 /* Navigation menu adjustments */
 .site-nav {
   margin-top: 10px;
+   text-align: center;
 }
 
 .site-nav-list {
@@ -35,6 +57,7 @@
   gap: 20px;            /* space between menu items */
   margin: 0;
   padding-left: 0;
+   justify-content: center;
 }
 
 .site-nav-list li {
@@ -52,12 +75,11 @@
   color: #0066cc;
 }
 
-/* Responsive: stack vertically on small screens */
-@media (max-width: 768px) {
-  .site-nav-list {
-    flex-direction: column;
-    gap: 10px;
-  }
+/* Center the main content and header */
+.wrapper {
+  max-width: 960px;        /* controls page width */
+  margin: 0 auto;          /* horizontal centering */
+  padding: 0 20px;         /* optional side padding */
 }
 
 /* Main content area */
