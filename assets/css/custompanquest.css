@@ -52,6 +52,14 @@
   color: #0066cc;
 }
 
+/* Responsive: stack vertically on small screens */
+@media (max-width: 768px) {
+  .site-nav-list {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
 /* Main content area */
 .page-content {
   padding: 2rem 0;
