@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Bienvenue sur le site officiel du projet **PanQueSt**.
+Welcome on the official web page of the ANR project **PanQueSt**.
