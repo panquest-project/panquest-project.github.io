@@ -30,20 +30,26 @@
 
 .site-nav-list {
   list-style: none;
-  display: flex;
-  gap: 20px;
+  display: flex;        /* make it horizontal */
+  flex-wrap: wrap;      /* wrap if screen is small */
+  gap: 20px;            /* space between menu items */
   margin: 0;
   padding-left: 0;
+}
+
+.site-nav-list li {
+  display: inline-block; /* ensure each item sits inline */
 }
 
 .site-nav-list a {
   text-decoration: none;
   font-weight: 600;
-  color: #004080;         /* main link color */
+  color: #004080;
+  padding: 5px 0;
 }
 
 .site-nav-list a:hover {
-  color: #0066cc;         /* hover color */
+  color: #0066cc;
 }
 
 /* Main content area */
