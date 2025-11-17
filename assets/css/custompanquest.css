@@ -30,6 +30,11 @@
   padding: 15px 0;
 }
 
+/* remove h1 header */
+.site-header .site-title {
+  display: none !important;
+}
+
 /* Logo adjustments */
 .project-logo img {
   height: 60px;           /* set desired logo height */
