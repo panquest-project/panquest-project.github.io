@@ -16,12 +16,6 @@
   gap: 10px;                /* space between logo and title */
 }
 
-.project-logo img {
-  height: 200px;   /* smaller, proportional logo */
-  width: auto;
-  vertical-align: middle;
-}
-
 
 /* Header adjustments */
 .site-header {
@@ -37,7 +31,7 @@
 
 /* Logo adjustments */
 .project-logo img {
-  height: 60px;           /* set desired logo height */
+  height: 160px;           /* set desired logo height */
   width: auto;
   vertical-align: middle;
 }
