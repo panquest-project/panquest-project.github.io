@@ -22,6 +22,7 @@ Four funded partners:
 
 * **[Claire Lemaitre](https://people.rennes.inria.fr/Claire.Lemaitre/index.php) (coordinator)**
 * Fabrice Legeai
+* Pierre Peterlongo
 * Riccardo Vicedomini
 
 ### Univ Montpellier, ISEM

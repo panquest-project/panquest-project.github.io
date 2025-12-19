@@ -6,4 +6,3 @@ permalink: /news/
 
 # News
 
-Les dernières actualités du projet.
