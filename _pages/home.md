@@ -4,9 +4,8 @@ title: Presentation
 permalink: /
 ---
 
-# Welcome
 
-Welcome on the official web page of the ANR project **PanQueSt**.  
+## Welcome on the official web page of the ANR project **PanQueSt**.  
 
 PanQueSt is a collaborative research project, funded by the [french funding agency ANR](https://anr.fr/en/), within the call AAP PRC 2025, for the period January 2026 - December 2029.
 
