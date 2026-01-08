@@ -48,4 +48,4 @@ Four funded partners:
 
 ## People funded by the project
 
-* Amel Bernarbia (Engineer, at Univ Montpellier)
+* Amel Benarbia (Engineer, at Univ Montpellier)
