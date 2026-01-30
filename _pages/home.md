@@ -9,6 +9,9 @@ permalink: /
 
 PanQueSt is a collaborative research project, funded by the [french funding agency ANR](https://anr.fr/en/), within the call AAP PRC 2025, for the period January 2026 - December 2029.
 
+<img src="images/logo_ANR.jpg" width="100"/>
+
+
 
 ### Context: Structural Variation in the pangenomic era
 
