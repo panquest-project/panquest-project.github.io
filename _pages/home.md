@@ -18,4 +18,4 @@ Structural variants (SVs) include large-scale genomic alterations such as insert
 
 The PanQueSt project gathers complementary skills in order to develop innovative computational tools for detecting and characterizing SVs in pangenome graphs, overcoming current biases towards smaller variants or model organisms. Our approach will include novel algorithms for accurately detecting complex SV motifs in pangenome graphs and refining their structural details, significantly improving resolution and interpretation. We will also develop a comprehensive benchmark dataset to standardize SV evaluation, providing a valuable resource for the genomics community. Finally, we will propose methods to filter SVs that can be associated to a genetic metadata, addressing the challenge of downstream-analysis scalability and contributing to understanding the missing heritability issue. By offering scalable and user-friendly tools, the project will facilitate new discoveries and societal applications in agronomy, health, and biodiversity.
 
-![ANR](images/logo_ANR.jpg)
+<img src="images/logo_ANR.jpg" width="100"/>
