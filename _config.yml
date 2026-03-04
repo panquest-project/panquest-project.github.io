@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "PanQueSt"
-title_separator          : "-"
+title                    : "PanQueSt : computationnal research for pangenome graphs"
+title_separator          : " "
 name                     : &name "PanQueSt"
 description              : &description "PanQueSt ANR project web site"   # Update this with a general description of your site, this is the default if not overridden by a page
 logo                     : "images/logo_panquest.png"
