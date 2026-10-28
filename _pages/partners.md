@@ -35,7 +35,7 @@ Four funded partners:
 ### Univ Bordeaux, LaBRI
 
 
-* **Raluca Uricaru**
+* **[Raluca Uricaru](https://ruricaru.github.io/)**
 * Guillaume Blin
 
 ### Inrae Toulouse, MIAT
@@ -49,3 +49,5 @@ Four funded partners:
 ## People funded by the project
 
 * Amel Benarbia (Engineer, at Univ Montpellier)
+* Alice Laurent (PhD, at Univ Bordeaux)
+* Tiziri Tamani (PhD, at Univ Toulouse)
